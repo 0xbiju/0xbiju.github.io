@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mint Information
 nav_order: 3
+title: Mint Information
 permalink: /mint-information
 ---
 # Mint Information
