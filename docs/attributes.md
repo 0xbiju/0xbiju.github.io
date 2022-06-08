@@ -89,6 +89,6 @@ Chin Pokie#5555 has the following attribute spread:
  - **Common -** Randomly generated Fertility between 0-10 -> 1
  - **Common -** Randomly generated Fertility between 0-10 -> 8
  - **Common -** Randomly generated Fertility between 0-10 -> 1
-> 
+ 
 The above Chin Pokie’s cumulative fertility is **8.2** (average of the above Fertility scores). 
 Final fertility will be **capped at 10.** 

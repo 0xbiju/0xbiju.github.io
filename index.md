@@ -29,7 +29,7 @@ The team consists of 7 members with a wide breadth of skills. Using these skills
 - **Elden Bling -** Founder & Art Direction
 - **Bubba Flubba -** Strategy & Design
 - **KiwiSmoothie -** Community Development
-- **Pin Chokie -**Finance
+- **Pin Chokie -** Finance
 
 ## Project Roadmap
 ### Phase I - Q4 2021
@@ -78,7 +78,7 @@ Developing and distributing redeemable merch using generated $SWIM token.
 
 Using $SWIM, community members will be given the opportunity to participate in both auctions and raffles for additional, free Chin Pokies as well as spots for future projects.
 ### Phase IV - Q1 2023+
-#### Looking to the Future
+### Looking to the Future
 {: .no_toc }
 
 #### Gen. II Chin Pokies

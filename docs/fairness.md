@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fairness
+title: Provable Fairness
 permalink: /fairness
 ---
 # Provable Fairness
@@ -13,4 +13,5 @@ The Chin Pokies Metadata will be shuffled just before the reveal. Meaning absolu
 ## Staff Minting proccess
 1% of the supply will be reserved after the Presale mint, however these Chin Pokies will NOT be for staff. They will be reserved in a community wallet for various use. They are NOT the property of any Chin Pokie staff.
 
-There will be no reserve for staff, and they will be minting like the rest of the community during the Public sale. 
+Staff will not be reserving any Chin Pokies for personal use. Staff will mint like the rest of the community during the public sale.
+
