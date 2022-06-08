@@ -4,9 +4,17 @@ title: Attribute Breakdown
 permalink: /attribute-breakdown
 ---
 # Attribute Breakdown 
-- Each Chin Pokie has 6 cosmetic attribute categories and an additional attribute called Fertility. 
-  - Fertility is an invisible attribute that affects staking and utility. 
-  - Fertility will be listed on OpenSea but will not have a designated rarity. 
+{: .no-toc}
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+---
+## Attributes
+Each Chin Pokie has 6 cosmetic attribute categories and an additional attribute called Fertility. 
+- Fertility is an invisible attribute that affects staking and utility. 
+-Fertility will be listed on OpenSea but will not have a designated rarity. 
 - Each cosmetic attribute category has a different number of total attributes.
 - Each cosmetic attribute category has 6 rarities: Common, Uncommon, Rare, Epic, Legendary, Unique.
   - These are listed in ascending order by rarity. 
@@ -25,11 +33,12 @@ permalink: /attribute-breakdown
   - **Head -** 52 variants + uniques
   - **Background -** 21 variants + uniques
   - **Skin -** 17 variants + uniques
-## Utility Overview
-Utility will be implemented primarily in the form of staking. Chin Pokie NFTs will be able to be staked making community members who do so eligible for rewards. Rewards include but are not limited to: \$SWIM token generation, airdrops, raffles, and more. Utility will be developed and implemented post-launch using the aforementioned allocation of mint sale funds. 
-## What exactly is Fertility?
+
+## Fertility
+
+### What exactly is Fertility?
 Every Pokie has a fertility score ranging from 1 to 10. Pokies will have minimum fertility scores based on their rarity and rarer Pokies will have a higher floor for their fertility score. Fertility score isn't just a number, it's a key component to our algorithm and will help generate tangible rewards as determined by the Team.
-## How is Fertility Calculated?
+### How is Fertility Calculated?
 Each Chin Pokie’s Fertility will be calculated by taking the average of the hidden Fertility score of each individual attribute (this will be randomly generated). Each attribute rarity influences Fertility as follows:
 - **Common -** Randomly generated Fertility between 1-10
 - **Uncommon -** Randomly generated Fertility between 1-10 plus 2
@@ -50,7 +59,8 @@ Chin Pokie#5555 has the following attribute spread:
 The above Chin Pokie’s cumulative fertility is **8.2** (average of the above Fertility scores). 
 Final fertility will be **capped at 10.** 
 
-
+## Utility Overview
+Utility will be implemented primarily in the form of staking. Chin Pokie NFTs will be able to be staked making community members who do so eligible for rewards. Rewards include but are not limited to: \$SWIM token generation, airdrops, raffles, and more. Utility will be developed and implemented post-launch using the aforementioned allocation of mint sale funds. 
 ## What is \$SWIM?
 \$SWIM is a Chin Pokie specific token that will be used to redeem rewards. Fertility score will determine how many Swimmers (\$SWIM) are generated when Pokies are staked. Additionally, staking with multiple Pokies will result in more \$SWIM generated since more fertility will be utilized. Tokenomics around \$SWIM will be released at a later date. 
 Staking & Rewards
