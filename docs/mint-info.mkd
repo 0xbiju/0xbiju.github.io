@@ -1,0 +1,33 @@
+---
+layout: page
+title: Mint Information
+permalink: /mint-information
+---
+# Mint Information
+---
+## Mint Specifications
+Each Chin Pokie NFT will be purchasable for .0369 Ethereum on our website.
+
+Max number of Chin Pokies minted per transaction during public mint is 10.
+
+An exact timeline for the public mint and pre-sales has not been identified. Once all aspects of the project from a technical perspective have been finalized, we will post the finalized public mint date on our Twitter, Discord, and Website. 
+
+Immediately after pre-sale (and before public mint), contest winners will be airdropped the next consecutive Chin Pokies from the smart contract.
+
+## Allowlist Facts & Process
+2,000 spots will be available for Allowlist. 
+
+Allowlist holders will be able to mint a maximum of 3 Chin Pokies during the Allowlist Presale.
+
+Allowlist mints will cost .025 Ethereum each (down from .0369) during the Allowlist Presale. 
+
+Allowlist spots will be awarded based on the Team’s discretion. The CP team is continually looking for creative ways to reward community engagement with Allowlist spots.  Ways to earn Allowlist spots are included (but not limited to) below:
+  - Twitter engagement
+  - Earning Discord roles
+  - Purchasing the Allowlist spots with our Discord-specific currency, Pokiecoin. 
+  - Community contributions & engagement
+- Allowlist spots will also be given to affiliate project communities with whom we are collaborating to use at their discretion.
+
+## Reserved Chin Pokies
+- 1% of NFTs will be kept aside to be used for raffles, giveaways, or other community events. 
+- These Chin Pokies are NOT considered property of any of the Chin Pokie staff. 
