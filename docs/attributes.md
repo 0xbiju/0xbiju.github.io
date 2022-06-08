@@ -4,7 +4,8 @@ title: Attribute Breakdown
 permalink: /attribute-breakdown
 ---
 # Attribute Breakdown 
-{: .no-toc}
+{: .no_toc }
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -53,6 +54,8 @@ Attribute categories can be seen below. Learn more about the cosmetic aspects of
 ## Fertility
 
 ### What is Fertility?
+{: .no_toc }
+
 
 Fertility is an invisible attribute that affects staking and utility. 
 Every Pokie has a fertility score ranging from 1.0 to 10.0. 
@@ -66,6 +69,9 @@ Each attribute will have a higher floor for their fertility score. Fertility sco
 
 
 ### How is Fertility Calculated?
+{: .no_toc }
+
+
 Each Chin Pokie’s Fertility will be calculated by taking the average of the hidden Fertility score of each individual attribute.
 The hidden fertility score of each attribute is calculate when generating each Chin Pokie. Meaning the same attribute will most likely have a different hidden Fertility score on different Pokies. The attribute's rarity influences the hidden Fertility as follows:
 - **Common -** Randomly generated Fertility between 1-10
