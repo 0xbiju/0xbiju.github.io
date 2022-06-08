@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deep Dive
+title: Home
 nav_order: 1
 description: "Learn everything there is to know about Chin Pokies under the hood."
 permalink: /

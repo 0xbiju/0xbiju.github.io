@@ -47,38 +47,38 @@
     "url": "http://localhost:4000/fairness",
     "relUrl": "/fairness"
   },"8": {
-    "doc": "Deep Dive",
+    "doc": "Home",
     "title": "Project Deep Dive",
     "content": " ",
     "url": "http://localhost:4000/#project-deep-dive",
     "relUrl": "/#project-deep-dive"
   },"9": {
-    "doc": "Deep Dive",
+    "doc": "Home",
     "title": "Table of contents",
     "content": ". | About Chin Pokies | Overview of the Team | Project Roadmap . | Phase I - Q4 2021 | Phase II Q1 - Q3 2022 | Phase III - Q4 2022 | Phase IV - Q1 2023+ | . | . ",
     "url": "http://localhost:4000/#table-of-contents",
     "relUrl": "/#table-of-contents"
   },"10": {
-    "doc": "Deep Dive",
+    "doc": "Home",
     "title": "About Chin Pokies",
     "content": "Chin Pokies is a collection of 6,969 profile picture based NFTs with a focus on community, enjoyable art, and a utility-based component that we’re looking forward to implementing post-launch. The utility-based component will be implemented post-launch using funds from project mint sales (50% of the project must mint out). 60% of mint sales will be reinvested into the project to cover additional fixed costs, additional development, events, future releases, and more. ",
     "url": "http://localhost:4000/#about-chin-pokies",
     "relUrl": "/#about-chin-pokies"
   },"11": {
-    "doc": "Deep Dive",
+    "doc": "Home",
     "title": "Overview of the Team",
     "content": "The team consists of 7 members with a wide breadth of skills. Using these skills cohesively, Chin Pokies are bringing a project with a growing community, great art, and rewards-based utility (in the future). Each member directs and manages their specified field: . | Biju - Founder &amp; Dev | EdgyHomumculus - Founder &amp; Marketing | Elden Bling - Founder &amp; Art Direction | Bubba Flubba - Strategy &amp; Design | KiwiSmoothie - Community Development | Pin Chokie -Finance | . ",
     "url": "http://localhost:4000/#overview-of-the-team",
     "relUrl": "/#overview-of-the-team"
   },"12": {
-    "doc": "Deep Dive",
+    "doc": "Home",
     "title": "Project Roadmap",
     "content": "Phase I - Q4 2021 . Art &amp; Design . Planning . The ideation of Chin Pokies began with a focus on art style and attribute creation. The project has developed into more than just a PFP project with the addition of a utility component which will be delivered post-launch. Learn more about utility below. Art Development . Seven different attribute types were developed for a total of 173 attributes. Each attribute was voted on by our Team, designed, and tweaked to ensure that every Pokie is high quality and inspires smiles. Smart Contract Design . Creating and optimizing our ERC721A smart contract was a primary focus. Listings on OpenSea will be free and gas costs will be minimized to the best of our ability. Phase II Q1 - Q3 2022 . Preparing for Launch . Community &amp; Social . Community development and social growth is the primary focus here. Website Creation . The Chin Pokies website is designed to be transparent and ensure that all aspects of the project are clear. Mint 6,969 Chin Pokies will be minted with a target date of the end of Summer. Phase III - Q4 2022 . Staking &amp; Rewards . Staking Your Chin Pokie . Review the utility overview below for more details. Merch . Developing and distributing redeemable merch using generated $SWIM token. Auctions &amp; Raffles . Using $SWIM, community members will be given the opportunity to participate in both auctions and raffles for additional, free Chin Pokies as well as spots for future projects. Phase IV - Q1 2023+ . Looking to the Future . Gen. II Chin Pokies . Potential for additional Chin Pokies release or new NFT releases by the team. Partner Collaborations . We have several teams that have shown interest in partnering with us. During this part of our roadmap, this will be one of our focuses. We’re hoping to develop those relationships and give community members access to those projects as well (by also leveraging $SWIM) . Continuous Development . Phase III doesn’t include everything we’ve come up with. Chin Pokies will be a living, breathing project that is hopefully here for the long haul. Additionally, we will be taking community feedback into account and adding features that are collectively voted on and approved by the community. ",
     "url": "http://localhost:4000/#project-roadmap",
     "relUrl": "/#project-roadmap"
   },"13": {
-    "doc": "Deep Dive",
-    "title": "Deep Dive",
+    "doc": "Home",
+    "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
