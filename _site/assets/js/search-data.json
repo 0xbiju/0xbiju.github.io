@@ -41,120 +41,102 @@
     "url": "http://localhost:4000/fairness#staff-minting-proccess",
     "relUrl": "/fairness#staff-minting-proccess"
   },"7": {
-    "doc": "Home",
+    "doc": "Frequently Asked Questions",
+    "title": "Frequently Asked Questions",
+    "content": ". ",
+    "url": "http://localhost:4000/faq",
+    "relUrl": "/faq"
+  },"8": {
+    "doc": "Documentation",
     "title": "Project Deep Dive",
     "content": " ",
     "url": "http://localhost:4000/#project-deep-dive",
     "relUrl": "/#project-deep-dive"
-  },"8": {
-    "doc": "Home",
+  },"9": {
+    "doc": "Documentation",
     "title": "Table of contents",
     "content": ". | About Chin Pokies | Overview of the Team | Project Roadmap . | Phase I - Q4 2021 | Phase II Q1 - Q3 2022 | Phase III - Q4 2022 | Phase IV - Q1 2023+ | . | . ",
     "url": "http://localhost:4000/#table-of-contents",
     "relUrl": "/#table-of-contents"
-  },"9": {
-    "doc": "Home",
+  },"10": {
+    "doc": "Documentation",
     "title": "About Chin Pokies",
-    "content": "Chin Pokies is a collection of 6,969 profile picture based NFTs with a focus on community, enjoyable art, and a utility-based component that we’re looking forward to implementing post-launch. The utility-based component will be implemented post-launch using funds from project mint sales (50% of the project must mint out). 60% of mint sales will be reinvested into the project to cover additional fixed costs, additional development, events, future releases, and more. ",
+    "content": "Chin Pokies is a collection of 6,969 profile picture based NFTs with a focus on community, enjoyable art, and a utility-based component that we’re looking forward to implementing post-launch. The utility-based component will be implemented post-launch using funds from project mint sales (50% of the project must mint out). 60% of mint sales will be reinvested into the project to cover additional fixed costs, additional development, events, future releases, and more. ## Mint Information Chin Pokies will be minting later this summer. Public sale price will be 0.0369 Etherium, and Allowlist Presale price will be 0.025 Etherium . ",
     "url": "http://localhost:4000/#about-chin-pokies",
     "relUrl": "/#about-chin-pokies"
-  },"10": {
-    "doc": "Home",
+  },"11": {
+    "doc": "Documentation",
     "title": "Overview of the Team",
     "content": "The team consists of 7 members with a wide breadth of skills. Using these skills cohesively, Chin Pokies are bringing a project with a growing community, great art, and rewards-based utility (in the future). Each member directs and manages their specified field: . | Biju - Founder &amp; Dev | EdgyHomumculus - Founder &amp; Marketing | Elden Bling - Founder &amp; Art Direction | Bubba Flubba - Strategy &amp; Design | KiwiSmoothie - Community Development | Pin Chokie - Finance | . ",
     "url": "http://localhost:4000/#overview-of-the-team",
     "relUrl": "/#overview-of-the-team"
-  },"11": {
-    "doc": "Home",
+  },"12": {
+    "doc": "Documentation",
     "title": "Project Roadmap",
     "content": "Phase I - Q4 2021 . Art &amp; Design . Planning . The ideation of Chin Pokies began with a focus on art style and attribute creation. The project has developed into more than just a PFP project with the addition of a utility component which will be delivered post-launch. Learn more about utility below. Art Development . Seven different attribute types were developed for a total of 173 attributes. Each attribute was voted on by our Team, designed, and tweaked to ensure that every Pokie is high quality and inspires smiles. Smart Contract Design . Creating and optimizing our ERC721A smart contract was a primary focus. Listings on OpenSea will be free and gas costs will be minimized to the best of our ability. Phase II Q1 - Q3 2022 . Preparing for Launch . Community &amp; Social . Community development and social growth is the primary focus here. Website Creation . The Chin Pokies website is designed to be transparent and ensure that all aspects of the project are clear. Mint 6,969 Chin Pokies will be minted with a target date of the end of Summer. Phase III - Q4 2022 . Staking &amp; Rewards . Staking Your Chin Pokie . Review the utility overview below for more details. Merch . Developing and distributing redeemable merch using generated $SWIM token. Auctions &amp; Raffles . Using $SWIM, community members will be given the opportunity to participate in both auctions and raffles for additional, free Chin Pokies as well as spots for future projects. Phase IV - Q1 2023+ . Looking to the Future . Gen. II Chin Pokies . Potential for additional Chin Pokies release or new NFT releases by the team. Partner Collaborations . We have several teams that have shown interest in partnering with us. During this part of our roadmap, this will be one of our focuses. We’re hoping to develop those relationships and give community members access to those projects as well (by also leveraging $SWIM) . Continuous Development . Phase III doesn’t include everything we’ve come up with. Chin Pokies will be a living, breathing project that is hopefully here for the long haul. Additionally, we will be taking community feedback into account and adding features that are collectively voted on and approved by the community. ",
     "url": "http://localhost:4000/#project-roadmap",
     "relUrl": "/#project-roadmap"
-  },"12": {
-    "doc": "Home",
-    "title": "Home",
+  },"13": {
+    "doc": "Documentation",
+    "title": "Documentation",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"13": {
+  },"14": {
     "doc": "Mint Information",
     "title": "Mint Information",
     "content": ". ",
     "url": "http://localhost:4000/mint-information",
     "relUrl": "/mint-information"
-  },"14": {
-    "doc": "Mint Information",
-    "title": "Mint Specifications",
-    "content": "Each Chin Pokie NFT will be purchasable for .0369 Ethereum on our website. Max number of Chin Pokies minted per transaction during public mint is 10. An exact timeline for the public mint and pre-sales has not been identified. Once all aspects of the project from a technical perspective have been finalized, we will post the finalized public mint date on our Twitter, Discord, and Website. Immediately after pre-sale (and before public mint), contest winners will be airdropped the next consecutive Chin Pokies from the smart contract. ",
-    "url": "http://localhost:4000/mint-information#mint-specifications",
-    "relUrl": "/mint-information#mint-specifications"
   },"15": {
     "doc": "Mint Information",
+    "title": "Mint Specifications",
+    "content": "Each Chin Pokie NFT will be purchasable for 0.0369 Ethereum on our website. Max number of Chin Pokies minted per transaction during public mint is 10. An exact timeline for the public mint and pre-sales has not been identified. Once all aspects of the project from a technical perspective have been finalized, we will post the finalized public mint date on our Twitter, Discord, and Website. Immediately after pre-sale (and before public mint), contest winners will be airdropped the next consecutive Chin Pokies from the smart contract. ",
+    "url": "http://localhost:4000/mint-information#mint-specifications",
+    "relUrl": "/mint-information#mint-specifications"
+  },"16": {
+    "doc": "Mint Information",
     "title": "Allowlist Facts &amp; Process",
-    "content": "2,000 spots will be available for Allowlist. Allowlist holders will be able to mint a maximum of 3 Chin Pokies during the Allowlist Presale. Allowlist mints will cost .025 Ethereum each (down from .0369) during the Allowlist Presale. Allowlist spots will be awarded based on the Team’s discretion. The CP team is continually looking for creative ways to reward community engagement with Allowlist spots. Ways to earn Allowlist spots are included (but not limited to) below: . | Twitter engagement | Earning Discord roles | Purchasing the Allowlist spots with our Discord-specific currency, Pokiecoin. | Community contributions &amp; engagement | Allowlist spots will also be given to affiliate project communities with whom we are collaborating to use at their discretion. | . ",
+    "content": "2,000 spots will be available for Allowlist. Allowlist holders will be able to mint a maximum of 3 Chin Pokies during the Allowlist Presale. Allowlist mints will cost 0.025 Ethereum each (down from 0.0369) during the Allowlist Presale. Allowlist spots will be awarded based on the Team’s discretion. The CP team is continually looking for creative ways to reward community engagement with Allowlist spots. Ways to earn Allowlist spots are included (but not limited to) below: . | Twitter engagement | Earning Discord roles | Purchasing the Allowlist spots with our Discord-specific currency, Pokiecoin. | Community contributions &amp; engagement | Allowlist spots will also be given to affiliate project communities with whom we are collaborating to use at their discretion. | . ",
     "url": "http://localhost:4000/mint-information#allowlist-facts--process",
     "relUrl": "/mint-information#allowlist-facts--process"
-  },"16": {
+  },"17": {
     "doc": "Mint Information",
     "title": "Reserved Chin Pokies",
     "content": ". | 1% of NFTs will be kept aside to be used for raffles, giveaways, or other community events. | These Chin Pokies are NOT considered property of any of the Chin Pokie staff. | . ",
     "url": "http://localhost:4000/mint-information#reserved-chin-pokies",
     "relUrl": "/mint-information#reserved-chin-pokies"
-  },"17": {
-    "doc": "Terms and Conditions",
-    "title": "Mint Information",
-    "content": ". ",
-    "url": "http://localhost:4000/terms-and-conditions#mint-information",
-    "relUrl": "/terms-and-conditions#mint-information"
   },"18": {
     "doc": "Terms and Conditions",
-    "title": "Mint Specifications",
-    "content": "Each Chin Pokie NFT will be purchasable for .0369 Ethereum on our website. Max number of Chin Pokies minted per transaction during public mint is 10. An exact timeline for the public mint and pre-sales has not been identified. Once all aspects of the project from a technical perspective have been finalized, we will post the finalized public mint date on our Twitter, Discord, and Website. Immediately after pre-sale (and before public mint), contest winners will be airdropped the next consecutive Chin Pokies from the smart contract. ",
-    "url": "http://localhost:4000/terms-and-conditions#mint-specifications",
-    "relUrl": "/terms-and-conditions#mint-specifications"
-  },"19": {
-    "doc": "Terms and Conditions",
-    "title": "Allowlist Facts &amp; Process",
-    "content": "2,000 spots will be available for Allowlist. Allowlist holders will be able to mint a maximum of 3 Chin Pokies during the Allowlist Presale. Allowlist mints will cost .025 Ethereum each (down from .0369) during the Allowlist Presale. Allowlist spots will be awarded based on the Team’s discretion. The CP team is continually looking for creative ways to reward community engagement with Allowlist spots. Ways to earn Allowlist spots are included (but not limited to) below: . | Twitter engagement | Earning Discord roles | Purchasing the Allowlist spots with our Discord-specific currency, Pokiecoin. | Community contributions &amp; engagement | Allowlist spots will also be given to affiliate project communities with whom we are collaborating to use at their discretion. | . ",
-    "url": "http://localhost:4000/terms-and-conditions#allowlist-facts--process",
-    "relUrl": "/terms-and-conditions#allowlist-facts--process"
-  },"20": {
-    "doc": "Terms and Conditions",
-    "title": "Reserved Chin Pokies",
-    "content": ". | 1% of NFTs will be kept aside to be used for raffles, giveaways, or other community events. | These Chin Pokies are NOT considered property of any of the Chin Pokie staff. | . ",
-    "url": "http://localhost:4000/terms-and-conditions#reserved-chin-pokies",
-    "relUrl": "/terms-and-conditions#reserved-chin-pokies"
-  },"21": {
-    "doc": "Terms and Conditions",
     "title": "Terms and Conditions",
-    "content": " ",
+    "content": ". ",
     "url": "http://localhost:4000/terms-and-conditions",
     "relUrl": "/terms-and-conditions"
-  },"22": {
+  },"19": {
     "doc": "Utility",
     "title": "Utility",
     "content": ". ",
     "url": "http://localhost:4000/utility",
     "relUrl": "/utility"
-  },"23": {
+  },"20": {
     "doc": "Utility",
     "title": "Utility Overview",
     "content": "Utility will be implemented primarily in the form of staking. Chin Pokie NFTs will be able to be staked making community members who do so eligible for rewards. Rewards include but are not limited to: $SWIM token generation, airdrops, raffles, and more. Utility will be developed and implemented post-launch using the aforementioned allocation of mint sale funds. ",
     "url": "http://localhost:4000/utility#utility-overview",
     "relUrl": "/utility#utility-overview"
-  },"24": {
+  },"21": {
     "doc": "Utility",
     "title": "What is $SWIM?",
     "content": "Swimmers ($SWIM) are a Chin Pokie specific token that will be used to redeem rewards. Fertility score will determine how much $SWIM is generated when Pokies are staked. Additionally, staking with multiple Pokies will result in more $SWIM generated since more fertility will be utilized. Tokenomics around $SWIM will be released at a later date. ",
     "url": "http://localhost:4000/utility#what-is-swim",
     "relUrl": "/utility#what-is-swim"
-  },"25": {
+  },"22": {
     "doc": "Utility",
     "title": "Staking &amp; Rewards",
     "content": "Rewards that will be redeemable through the aforementioned utility process include: . | Chin Pokies Merchandise - custom merchandise will be 100% redeemable with earned $SWIM. The only cost for community members will be shipping. | Giveaway Access - members actively staking with their Chin Pokie will automatically be entered into WL raffles as well as giveaways for any future releases. | Raffles &amp; Auctions - Members can use $SWIM to enter raffles for Allowlist spots for Gen II Chin Pokies as well as Allowlist spots for collaborative projects. Additionally, members can bid on limited releases &amp; new collections using $SWIM. | . ",
     "url": "http://localhost:4000/utility#staking--rewards",
     "relUrl": "/utility#staking--rewards"
-  },"26": {
+  },"23": {
     "doc": "Utility",
     "title": "$SWIM Tokenomics (TBA)",
     "content": "Chin Pokies are committed to implementing staking post-launch. Tokenomics of $SWIM to be specified at a later date. ",
