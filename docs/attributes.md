@@ -49,7 +49,6 @@ Attribute categories can be seen below. Learn more about the cosmetic aspects of
 | Head           | 52 | 
 | Background           | 21 | 
 | Skin           | 17 | 
-| Skin           | 17 | 
 
 
 ## Fertility
