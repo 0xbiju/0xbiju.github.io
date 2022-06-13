@@ -1,15 +1,15 @@
 ---
 layout: page
 nav_order: 3
-title: Mint Information
+title: Mint Information and Tips
 permalink: /mint-information
 ---
 # Mint Information
 ---
 ## Mint Specifications
-Each Chin Pokie NFT will be purchasable for 0.0369 Ethereum on our website.
+Each Chin Pokie NFT will be purchasable for `0.0369 Ethereum` on our website.
 
-Max number of Chin Pokies minted per transaction during public mint is 10.
+Max number of Chin Pokies minted per transaction during public mint is `10`.
 
 An exact timeline for the public mint and pre-sales has not been identified. Once all aspects of the project from a technical perspective have been finalized, we will post the finalized public mint date on our Twitter, Discord, and Website. 
 
@@ -32,3 +32,24 @@ Allowlist spots will be awarded based on the Team’s discretion. The CP team is
 ## Reserved Chin Pokies
 1% of NFTs will be kept aside to be used for raffles, giveaways, or other community events. 
 These Chin Pokies are NOT considered property of any of the Chin Pokie staff. 
+
+## Timeline
+| Name | Time |
+| --- | ----------- |
+| Allowlist Mint | TBA |
+| Contest Winners and Reserved Pokie Claim  | TBA |
+| Public Mint | TBA |
+| Metadata Reveal | TBA|
+
+## Tips
+Ensure you have metamask as a backup method of minting if you are using a hardware wallet. While hardware wallets are a best practice security measure, it's always good to have a plan B. 
+
+Refresh [https://chinpokies.com](https://chinpokies.com) if you're hanging around on the page at exactly mint time.
+
+Use [gas responsibly and check gas estimation services](https://www.blocknative.com/gas-estimator?gasType=ethereum) for latest prices.
+
+Expect the gas price to be higher than what is quoted as the public sale begins.
+
+Use etherscan's pending transaction page to see what gas prices others are using to help inform your own gas strategy.
+
+Be aware that you and many others may be attempting to mint the last remaining Chin Pokies. The website will refresh the remaining count whenever the mint button is clicked.
