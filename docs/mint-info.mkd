@@ -1,10 +1,10 @@
 ---
 layout: page
 nav_order: 3
-title: Mint Information and Tips
-permalink: /mint-information
+title: Minting Information and Tips
+permalink: /mint-information-and-tips
 ---
-# Mint Information
+# Minting Information and Tips
 ---
 ## Mint Specifications
 Each Chin Pokie NFT will be purchasable for `0.0369 Ethereum` on our website.
