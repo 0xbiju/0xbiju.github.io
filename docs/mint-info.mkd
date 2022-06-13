@@ -35,15 +35,15 @@ These Chin Pokies are NOT considered property of any of the Chin Pokie staff.
 
 ## Timeline
 
-|  Name  |  Time  |
-| :------------------ | :------------------ |
-|  Allowlist Mint  | TBA |
-|  Contest Winners and Reserved Pokie Claim  | TBA |
-|  Public Mint  |  TBA  |
-|  Metadata Reveal  |  TBA  |
-
+| Name        | Time          |
+|:-------------|:------------------|
+| Allowlist Mint           | TBA | 
+| Contest Winners and Reserved Pokie Claim | TBA  | 
+| Public Mint           | TBA      | 
+| Metadata Reveal           | TBA |  
 
 ## Tips
+
 Ensure you have metamask as a backup method of minting if you are using a hardware wallet. While hardware wallets are a best practice security measure, it's always good to have a plan B. 
 
 Refresh [https://chinpokies.com](https://chinpokies.com) if you're hanging around on the page at exactly mint time.
