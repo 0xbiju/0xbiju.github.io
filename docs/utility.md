@@ -20,5 +20,6 @@ Rewards that will be redeemable through the aforementioned utility process inclu
 2. Giveaway Access - members actively staking with their Chin Pokie will automatically be entered into WL raffles as well as giveaways for any future releases.
 3. Raffles & Auctions - Members can use \$SWIM to enter raffles for Allowlist spots for Gen II Chin Pokies as well as Allowlist spots for collaborative projects. Additionally, members can bid on limited releases & new collections using \$SWIM.
 
-## \$SWIM Tokenomics {: .label .label-yellow }
+## \$SWIM Tokenomics
+{: .label .label-yellow }
 Chin Pokies are committed to implementing staking post-launch. Tokenomics of \$SWIM to be specified at a later date. 
