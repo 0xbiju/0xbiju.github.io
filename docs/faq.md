@@ -10,7 +10,7 @@ permalink: /faq
 
 Chin Pokies are 6,969 cute, friendly peens on the Ethereum blockchain with 6900 being generated art and the other 69 being themed 1/1s. Each Pokie has a height indicator and an invisible fertility stat that will influence how many tokens it will generate when staked.
 
-### Staking
+### Staking?
 
 Staking an NFT is when you tuck it away in a vault. For taking it off the market, you will be rewarded with tokens that will have a variety of use cases.
 
@@ -30,4 +30,4 @@ Chin Pokies is looking at a late summer mint. Exact date TBD
 
 ### How AL?
 
-Hop into the discord and earn Pokiecoins to buy your Allowlist. We'll also have events, raffles, and giveaways and you will have opportunities to win the allow list role through one of those.
+Hop into the [discord](https://discord.gg/Yv4Ffh42mw) and earn Pokiecoins to buy your Allowlist. We'll also have events, raffles, and giveaways to win Allowlist as well.
