@@ -38,7 +38,7 @@ These Chin Pokies are NOT considered property of any of the Chin Pokie staff.
 | Name        | Time          |
 |:-------------|:------------------|
 | Allowlist Mint           | TBA | 
-| Contest Winner Airdrop | TBA  | 
+| Contest Winner Airdrops | TBA  | 
 | Reserved Pokie Claim | TBA  | 
 | Public Mint           | TBA      | 
 | Metadata Reveal           | TBA |  
