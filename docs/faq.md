@@ -22,7 +22,7 @@ Chin Pokies is a living project and use cases may grow over time, but our initia
 Chin Pokie NFT owners will have non-exclusive commercial rights over the Chin Pokie NFT(s) they hold.
 
 ### Wen mint?
-Chin Pokies is looking at a late summer mint. Exact date TBD
+Chin Pokies is looking at a late summer mint. Exact date TBA.
 
 ### Wat Price?
 
