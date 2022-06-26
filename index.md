@@ -20,7 +20,7 @@ permalink: /
 Chin Pokies is a collection of 6,969 profile picture based NFTs with a focus on community, enjoyable art, and a utility-based component that we’re looking forward to implementing post-launch. 
 The utility-based component will be implemented post-launch using funds from project mint sales (50% of the project must mint out). 60% of mint sales will be reinvested into the project to cover additional fixed costs, additional development, events, future releases, and more. 
 
-Chin Pokies will be minting later this summer. Public sale price will be 0.0369 Etherium, and Allowlist Presale price will be 0.025 Etherium
+**Chin Pokies will be minting later this summer. Public sale price will be 0.0369 Etherium, and Allowlist Presale price will be 0.025 Etherium.
 
 ## Overview of the Team
 
