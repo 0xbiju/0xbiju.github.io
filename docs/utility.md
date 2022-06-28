@@ -61,4 +61,13 @@ Rewards that will be redeemable through the aforementioned utility process inclu
 3. **Raffles & Auctions** - Members can use \$SWIM to enter raffles for Allowlist spots for Gen II Chin Pokies as well as Allowlist spots for collaborative projects. Additionally, members can bid on limited releases & new collections using \$SWIM.
 
 ## \$SWIM Tokenomics
-Chin Pokies are committed to implementing staking post-launch. As previously mentioned, a Chin Pokie's [Fertility](/attribute-breakdown#fertility) will influence the daily  Tokenomics of \$SWIM to be specified at a later date. 
+Chin Pokies are committed to implementing staking post-launch. Some of the specifics of how $SWIM works have already been defined and will be explained below. Staking functionality will be implemented post-launch on our website using an allocated percentage of the aforementioned community fund (60% of mint sales).
+
+Maximum staked fertility will be capped at 20, regardless of how many Chin Pokies staked.
+- Ex: If Chin Pokies holder stakes 4 NFTs with fertilities of 4, 9, 8, and 5, the total fertility staked will still be 20. 
+- Ex: If Chin Pokies holder stakes 2 NFTs with fertilities of 4 and 3,  the total fertility staked will be 7.
+
+$SWIM will be accrued at a rate of **Total Fertility Staked<sup>1.5</sup>** each day that Chin Pokie NFTs are staked.
+
+Accrued $SWIM can be collected by clicking the redeem button on our website.
+
