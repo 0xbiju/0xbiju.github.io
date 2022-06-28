@@ -1,151 +1,151 @@
 {"0": {
     "doc": "Attribute Breakdown",
     "title": "Attribute Breakdown",
-    "content": " ",
+    "content": ". ",
     "url": "http://localhost:4000/attribute-breakdown",
     "relUrl": "/attribute-breakdown"
   },"1": {
     "doc": "Attribute Breakdown",
-    "title": "Table of contents",
-    "content": ". | Attributes | Fertility | . ",
-    "url": "http://localhost:4000/attribute-breakdown#table-of-contents",
-    "relUrl": "/attribute-breakdown#table-of-contents"
-  },"2": {
-    "doc": "Attribute Breakdown",
     "title": "Attributes",
-    "content": "Each Chin Pokie has 6 cosmetic attribute categories and an additional attribute called Fertility. Each cosmetic attribute category has a different number of total attributes. Each cosmetic attribute category has 6 rarities, listed in ascending order by rarity: Common, Uncommon, Rare, Epic, Legendary, Unique. | Within a specific attribute category, an attribute with a lower rarity will always appear more often than a rarer attribute within that same category. | Unique attributes will appear only once in the whole collection. | Distribution quantities for each rarity tier varies per attribute category. Our goal was to distribute attribute rarity as evenly as possible. Due to different numbers of attributes per category, rarity per attribute has some variation. | Ex: A Legendary Face attribute will always be rarer than Epic Face attribute. | Ex: A Legendary Body attribute is slightly less rare than a Legendary Face attribute. | . | . Attribute categories can be seen below. Learn more about the cosmetic aspects of each attribute on the Attributes Page. A rarity breakdown of each attribute category has also been included on the attributes page. Fertility - number ranging from 1-10. Ruler - a standard ruler with a measurement ranging from 1-12 (for non-unique Chin Pokies). Face - 49 variants + uniques . Body - 32 variants + uniques . Head - 52 variants + uniques . Background - 21 variants + uniques . Skin - 17 variants + uniques . | Attribute | Variations | . | Ruler | 12 | . | Face | 49 | . | Body | 32 | . | Head | 52 | . | Background | 21 | . | Skin | 17 | . ",
+    "content": "Each Chin Pokie has 6 cosmetic attribute categories and an additional attribute called Fertility. Each cosmetic attribute category has a different number of total attributes. Each cosmetic attribute category has 6 rarities, listed in ascending order by rarity: Common, Uncommon, Rare, Epic, Legendary, Unique. | Within a specific attribute category, an attribute with a lower rarity will always appear more often than a rarer attribute within that same category. | Unique attributes will appear only once in the whole collection. | Distribution quantities for each rarity tier varies per attribute category. Our goal was to distribute attribute rarity as evenly as possible. Due to different numbers of attributes per category, rarity per attribute has some variation. | Ex: A Legendary Face attribute will always be rarer than Epic Face attribute. | Ex: A Legendary Body attribute is slightly less rare than a Legendary Face attribute. | . | . Attribute categories can be seen below. Learn more about the cosmetic aspects of each attribute on the Attributes Page. A rarity breakdown of each attribute category has also been included on the attributes page. Fertility (not visible)- number ranging from 1-10. 1. Ruler - a standard ruler with a measurement ranging from 1-12 (for non-unique Chin Pokies). 2. Face - 49 variants + uniques . 3. Body - 32 variants + uniques . 4. Head - 52 variants + uniques . 5. Background - 21 variants + uniques . 6. Skin - 17 variants + uniques . | Attribute | Variations | . | Ruler | 12 | . | Face | 49 | . | Body | 32 | . | Head | 52 | . | Background | 21 | . | Skin | 17 | . ",
     "url": "http://localhost:4000/attribute-breakdown#attributes",
     "relUrl": "/attribute-breakdown#attributes"
-  },"3": {
-    "doc": "Attribute Breakdown",
-    "title": "Fertility",
-    "content": "What is Fertility? . Fertility is an invisible attribute that affects staking and utility. Every Pokie has a fertility score ranging from 1.0 to 10.0. Fertility will be listed on OpenSea, but will not have a designated rarity. The value here will directly affect staking/utility with a higher Fertility score resulting in more $SWIM generated when staked. Higher rarity attributes will have a higher base Fertility score when being used to calculate a Pokie’s fertility. Each attribute will have a higher floor for their fertility score. Fertility score isn’t just a number, it’s a key component to our algorithm and will help generate tangible rewards as determined by the Team. How is Fertility Calculated? . Each Chin Pokie’s Fertility will be calculated by taking the average of the hidden Fertility score of each individual attribute. The hidden fertility score of each attribute is calculate when generating each Chin Pokie. Meaning the same attribute will most likely have a different hidden Fertility score on different Pokies. The attribute’s rarity influences the hidden Fertility as follows: . | Common - Randomly generated Fertility between 1-10 | Uncommon - Randomly generated Fertility between 1-10 plus 2 | Rare - Randomly generated Fertility between 1-10 plus 4 | Epic - Randomly generated Fertility between 1-10 plus 6 | Legendary - Randomly generated Fertility between 1-10 plus 8 | Unique Pokies- Guaranteed Fertility of 10 | . Example with random numbers. Chin Pokie#5555 has the following attribute spread: . | Rare - Randomly generated Fertility between 0-10 + 4 -&gt; (6+4) = 10 | Epic - Randomly generated Fertility between 0-10 + 6 -&gt; (7+6) = 13 | Legendary - Randomly generated Fertility between 0-10 + 8 -&gt; (8+8) = 16 | Common - Randomly generated Fertility between 0-10 -&gt; 1 | Common - Randomly generated Fertility between 0-10 -&gt; 8 | Common - Randomly generated Fertility between 0-10 -&gt; 1 | . The above Chin Pokie’s cumulative fertility is 8.2 (average of the above Fertility scores). Final fertility will be capped at 10. ",
-    "url": "http://localhost:4000/attribute-breakdown#fertility",
-    "relUrl": "/attribute-breakdown#fertility"
-  },"4": {
+  },"2": {
     "doc": "Provable Fairness",
     "title": "Provable Fairness",
     "content": ". ",
     "url": "http://localhost:4000/fairness",
     "relUrl": "/fairness"
-  },"5": {
+  },"3": {
     "doc": "Provable Fairness",
     "title": "Shuffled Metadata",
     "content": "The Chin Pokies staff want to provide a fair mint experience for all users. To ensure generation quality, the staff WILL look through all generations and replace any generations that don’t meet quality standards. Although the staff will know what all generations lool like, they will not know in what order they will be minted. The Chin Pokies Metadata will be shuffled just before the reveal. Meaning absolutely no one will know the metadata order during any stage of the mint process until after the reveal. ",
     "url": "http://localhost:4000/fairness#shuffled-metadata",
     "relUrl": "/fairness#shuffled-metadata"
-  },"6": {
+  },"4": {
     "doc": "Provable Fairness",
     "title": "Staff Minting proccess",
     "content": "1% of the supply will be reserved after the Presale mint, however these Chin Pokies will NOT be for staff. They will be reserved in a community wallet for various use. They are NOT the property of any Chin Pokie staff. Staff will not be reserving any Chin Pokies for personal use. Staff will mint like the rest of the community during the public sale. ",
     "url": "http://localhost:4000/fairness#staff-minting-proccess",
     "relUrl": "/fairness#staff-minting-proccess"
-  },"7": {
+  },"5": {
     "doc": "Frequently Asked Questions",
     "title": "Frequently Asked Questions",
     "content": "Wtf are Chin Pokies? . Chin Pokies are 6,969 cute, friendly peens on the Ethereum blockchain with 6900 being generated art and the other 69 being themed 1/1s. Each Pokie has a height indicator and an invisible fertility stat that will influence how many tokens it will generate when staked. Staking? . Staking an NFT is when you tuck it away in a vault. For taking it off the market, you will be rewarded with tokens that will have a variety of use cases. Token Use? . Chin Pokies is a living project and use cases may grow over time, but our initial use cases will be to buy various merchandise from our store with your token rewards. You will also be able to buy allow list spots for projects we collaborate with as well as allow list spots and/or NFTs from future releases from the Chin Pokies team. Commercial Rights? . Chin Pokie NFT owners will have non-exclusive commercial rights over the Chin Pokie NFT(s) they hold. Wen mint? . Chin Pokies is looking at a late summer mint. Exact date TBA. Wat Price? . 0.0369 Ethereum Public sale price, .025 Etherium Allowlist sale price. How AL? . Hop into the discord and earn Pokiecoins to buy your Allowlist. We’ll also have events, raffles, and giveaways to win Allowlist as well. ",
     "url": "http://localhost:4000/faq",
     "relUrl": "/faq"
-  },"8": {
+  },"6": {
     "doc": "Project Deep Dive",
     "title": "Project Deep Dive",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"9": {
+  },"7": {
     "doc": "Project Deep Dive",
     "title": "Table of contents",
-    "content": ". | About Chin Pokies | Overview of the Team | Project Roadmap . | Phase I - Q4 2021Art &amp; Design | Phase II Q1 - Q3 2022Preparing for Launch | Phase III - Q4 2022Staking &amp; Rewards | . | . ",
+    "content": ". | About Chin Pokies | Overview of the Team | Project Roadmap . | Phase I - Q4 2021Art &amp; Design | Phase II Q1 - Q3 2022Preparing for Launch . | Mint | . | Phase III - Q4 2022Staking &amp; Rewards | . | . ",
     "url": "http://localhost:4000/#table-of-contents",
     "relUrl": "/#table-of-contents"
-  },"10": {
+  },"8": {
     "doc": "Project Deep Dive",
     "title": "About Chin Pokies",
     "content": "Chin Pokies is a collection of 6,969 profile picture based NFTs with a focus on community, enjoyable art, and a utility-based component that we’re looking forward to implementing post-launch. The utility-based component will be implemented post-launch using funds from project mint sales (50% of the project must mint out). 60% of mint sales will be reinvested into the project to cover additional fixed costs, additional development, events, future releases, and more. Chin Pokies will be minting later this summer. Public sale price will be 0.0369 Etherium, and Allowlist Presale price will be 0.025 Etherium. ",
     "url": "http://localhost:4000/#about-chin-pokies",
     "relUrl": "/#about-chin-pokies"
-  },"11": {
+  },"9": {
     "doc": "Project Deep Dive",
     "title": "Overview of the Team",
-    "content": "The team consists of 7 members with a wide breadth of skills. Using these skills cohesively, Chin Pokies are bringing a project with a growing community, great art, and rewards-based utility (in the future). Each member directs and manages their specified field: . | Biju - Founder &amp; Dev | EdgyHomumculus - Founder &amp; Marketing | Elden Bling - Founder &amp; Art Direction | Bubba Flubba - Strategy &amp; Design | KiwiSmoothie - Community Development | Pin Chokie - Finance | . ",
+    "content": "The team consists of 7 members with a wide breadth of skills. Using these skills cohesively, Chin Pokies are bringing a project with a growing community, great art, and rewards-based utility (in the future). Each member directs and manages their specified field: . | Biju - Founder &amp; Development. With 9 years of experience under his belt, Biju’s development experience includes machine learning, automation, fullstack development, VR, and web3. | EdgyHomumculus - Founder &amp; Marketing. Over a decade of marketing experience assisting a wide breadth of companies including widely known crypto companies. | Elden Bling - Founder &amp; Art Direction. Nearly a decade of IT Project Management experience with 5 years of graphic design. | Bubba Flubba - Developed sales and marketing departments in multiple companies over the last 7 years with a focus on improving the customer journey. | KiwiSmoothie - Community Development. Over three years of Discord moderation and server experience, focusing on member engagement and growth. | Pin Chokie - Finance | . ",
     "url": "http://localhost:4000/#overview-of-the-team",
     "relUrl": "/#overview-of-the-team"
-  },"12": {
+  },"10": {
     "doc": "Project Deep Dive",
     "title": "Project Roadmap",
-    "content": "Phase I - Q4 2021Art &amp; Design . Planning . The ideation of Chin Pokies began with a focus on art style and attribute creation. The project has developed into more than just a PFP project with the addition of a utility component which will be delivered post-launch. Learn more about utility below. Art Development . Seven different attribute types were developed for a total of 173 attributes. Each attribute was voted on by our Team, designed, and tweaked to ensure that every Pokie is high quality and inspires smiles. Smart Contract Design . Creating and optimizing our ERC721A smart contract was a primary focus. Listings on OpenSea will be free and gas costs will be minimized to the best of our ability. Phase II Q1 - Q3 2022Preparing for Launch . Community &amp; Social . Community development and social growth is the primary focus here. Website Creation . The Chin Pokies website is designed to be transparent and ensure that all aspects of the project are clear. Mint 6,969 Chin Pokies will be minted with a target date of the end of Summer. Phase III - Q4 2022Staking &amp; Rewards . Staking Your Chin Pokie . Review the utility overview below for more details. Merch . Developing and distributing redeemable merch using generated $SWIM token. Auctions &amp; Raffles . Using $SWIM, community members will be given the opportunity to participate in both auctions and raffles for additional, free Chin Pokies as well as spots for future projects. Phase IV - Q1 2023+Looking to the Future . Gen. II Chin Pokies . Potential for additional Chin Pokies release or new NFT releases by the team. Partner Collaborations . We have several teams that have shown interest in partnering with us. During this part of our roadmap, this will be one of our focuses. We’re hoping to develop those relationships and give community members access to those projects as well (by also leveraging $SWIM) . Continuous Development . Phase III doesn’t include everything we’ve come up with. Chin Pokies will be a living, breathing project that is hopefully here for the long haul. Additionally, we will be taking community feedback into account and adding features that are collectively voted on and approved by the community. ",
+    "content": "Phase I - Q4 2021Art &amp; Design . Planning . The ideation of Chin Pokies began with a focus on art style and attribute creation. The project has developed into more than just a PFP project with the addition of a utility component which will be delivered post-launch. Learn more about utility below. Art Development . Seven different attribute types were developed for a total of 173 attributes. Each attribute was voted on by our Team, designed, and tweaked to ensure that every Pokie is high quality and inspires smiles. Smart Contract Design . Creating and optimizing our ERC721A smart contract was a primary focus. Listings on OpenSea will be free and gas costs will be minimized to the best of our ability. Phase II Q1 - Q3 2022Preparing for Launch . Community &amp; Social . Community development and social growth is the primary focus here. All of our attention is put into Discord and Twitter, with various practices to keep members engaged and to grow the community. Website Creation . The Chin Pokies website is designed to be transparent and ensure that all aspects of the project are easy to understand and transparent. Mint . 6,969 Chin Pokies will be minted with a target date of the end of Summer. For more information about the mint process visit the mint information page . Phase III - Q4 2022Staking &amp; Rewards . Staking Your Chin Pokie . Review the utility overview page for more details. Merch . Developing and distributing redeemable merch using generated $SWIM token. Auctions &amp; Raffles . Using $SWIM, community members will be given the opportunity to participate in both auctions and raffles for additional, free Chin Pokies as well as spots for future projects. Phase IV - Q1 2023+Looking to the Future . Gen. II Chin Pokies . Potential for additional Chin Pokies release or new NFT releases by the team. Partner Collaborations . We have several teams that have shown interest in partnering with us. During this part of our roadmap, this will be one of our focuses. We’re hoping to develop those relationships and give community members access to those projects as well (by also leveraging $SWIM) . Continuous Development . Phase III doesn’t include everything we’ve come up with. Chin Pokies will be a living, breathing project that is hopefully here for the long haul. Additionally, we will be taking community feedback into account and adding features that are collectively voted on and approved by the community. ",
     "url": "http://localhost:4000/#project-roadmap",
     "relUrl": "/#project-roadmap"
-  },"13": {
+  },"11": {
     "doc": "Minting Information and Tips",
     "title": "Minting Information and Tips",
     "content": ". ",
     "url": "http://localhost:4000/mint-information-and-tips",
     "relUrl": "/mint-information-and-tips"
-  },"14": {
+  },"12": {
     "doc": "Minting Information and Tips",
     "title": "Mint Specifications",
     "content": "Each Chin Pokie NFT will be purchasable for 0.0369 Ethereum on our website. Max number of Chin Pokies minted per transaction during public mint is 10. An exact timeline for the public mint and pre-sales has not been identified. Once all aspects of the project from a technical perspective have been finalized, we will post the finalized public mint date on our Twitter, Discord, and Website. Immediately after pre-sale (and before public mint), contest winners will be airdropped the next consecutive Chin Pokies from the smart contract. ",
     "url": "http://localhost:4000/mint-information-and-tips#mint-specifications",
     "relUrl": "/mint-information-and-tips#mint-specifications"
-  },"15": {
+  },"13": {
     "doc": "Minting Information and Tips",
     "title": "Allowlist Facts &amp; Process",
     "content": "2,000 spots will be available for Allowlist. Allowlist holders will be able to mint a maximum of 3 Chin Pokies during the Allowlist Presale. Allowlist mints will cost 0.025 Ethereum each (down from 0.0369) during the Allowlist Presale. Allowlist spots will be awarded based on the Team’s discretion. The CP team is continually looking for creative ways to reward community engagement with Allowlist spots. Ways to earn Allowlist spots are included (but not limited to) below: . | Twitter engagement | Earning Discord roles | Purchasing the Allowlist spots with our Discord-specific currency, Pokiecoin. | Community contributions &amp; engagement | Allowlist spots will also be given to affiliate project communities with whom we are collaborating to use at their discretion. | . ",
     "url": "http://localhost:4000/mint-information-and-tips#allowlist-facts--process",
     "relUrl": "/mint-information-and-tips#allowlist-facts--process"
-  },"16": {
+  },"14": {
     "doc": "Minting Information and Tips",
     "title": "Reserved Chin Pokies",
     "content": "1% of NFTs will be kept aside to be used for raffles, giveaways, or other community events. These Chin Pokies are NOT considered property of any of the Chin Pokie staff. ",
     "url": "http://localhost:4000/mint-information-and-tips#reserved-chin-pokies",
     "relUrl": "/mint-information-and-tips#reserved-chin-pokies"
-  },"17": {
+  },"15": {
     "doc": "Minting Information and Tips",
     "title": "Timeline",
     "content": "| Name | Time | . | Allowlist Mint | TBA | . | Contest Winner Airdrops | TBA | . | Reserved Pokie Claim | TBA | . | Public Mint | TBA | . | Metadata Reveal | TBA | . ",
     "url": "http://localhost:4000/mint-information-and-tips#timeline",
     "relUrl": "/mint-information-and-tips#timeline"
-  },"18": {
+  },"16": {
     "doc": "Minting Information and Tips",
     "title": "Tips",
     "content": "Ensure you have metamask as a backup method of minting if you are using a hardware wallet. While hardware wallets are a best practice security measure, it’s always good to have a plan B. Refresh https://chinpokies.com if you’re hanging around on the page at exactly mint time. Use gas responsibly and check gas estimation services for latest prices. Expect the gas price to be higher than what is quoted as the public sale begins. Use etherscan’s pending transaction page to see what gas prices others are using to help inform your own gas strategy. Be aware that you and many others may be attempting to mint the last remaining Chin Pokies. The website will refresh the remaining count whenever the mint button is clicked. ",
     "url": "http://localhost:4000/mint-information-and-tips#tips",
     "relUrl": "/mint-information-and-tips#tips"
-  },"19": {
+  },"17": {
     "doc": "Terms and Conditions",
     "title": "Terms and Conditions",
     "content": ". 1. What We Own . The name and Intellectual Property involved in the Chin Pokies NFT Project (“Chin Pokies”) is owned by the Chin Pokies founders. All rights that are not specifically granted to the users and owners of Chin Pokies below are reserved by the team or potential future DAO. This includes, but is not limited to, the intellectual property rights surrounding the images, names, logos, 3D layer files, trademarks, the website, the ability to mint 3D or voxel or other versions of Chin Pokies, the look and feel of the user interface, the smart contract code, or anything else not specifically granted by any following licenses. 2. What You Own and What You Can Do With It . By connecting your Ethereum wallet and minting an NFT with our smart contract, you have purchased a Chin Pokie! You can show off your Chin Pokie, use it as your profile picture, sell it, merchandise it through the sale of physical merchandise, or use your full Chin Pokie in an art piece of your making. 3. Specifics on Commercial and Derivative Rights . We appreciate your desire to utilize Chin Pokies in various commercial ways, and we are open to you doing just that! However, when it comes to limiting commercial rights, we want you, as an NFT holder, to realize that you may only use the Chin Pokie image in its fullness! The individual layered files and traits are proprietary and are our own creation; therefore, you cannot mint new NFTs that are derivatives of our project, change or add to the original Chin Pokie, or mint another full project using our Chin Pokies in any way. Other than these aforementioned prohibitions, you can create whatever merchandise you would like. The user shall not use any Chin Pokies Licensed Materials in connection with any material, which is unlawful, fraudulent, libelous, defamatory, obscene, pornographic, profane, threatening, abusive, hateful, offensive or otherwise objectionable or unreasonable or infringing upon any laws or regulations or intellectual property rights or proprietary rights or confidentiality obligations and you shall indemnify and defend Chin Pokies against any claims, damages, proceedings, loss or costs arising from such use. The user shall not use the Chin Pokies Licensed Materials in any way that could be construed as being adverse or derogatory to the image of Chin Pokies or any of its subjects featured in the NFTs. 4. No Guarantees or Future Promises . The Chin Pokies team hopes to put out more content and create things in the future that you can all be proud of and have outlined many of our intentions as such. However, the landscape around DAOs and various other things we are hoping to do is shifting and legally ambiguous in many ways. When you purchase your Chin Pokie, you agree that your purchase from our initial launch of NFTs is all you are guaranteed to receive in exchange for your funds. Whether through primary or secondary channels, the art is what you receive. Any future benefits are ancillary to this purchase and not to be taken into consideration with your initial purchase. You agree that you are not relying on any future commitments by Chin Pokies. 5. Chin Pokies Are Not Intended as Investments . Chin Pokies are meant to be a fun Non-Fungible Token for you to collect. They are not meant as investment vehicles. We make absolutely no promise or guarantee that these NFTs will be worth anything more than what you and the market deem the art to be worth. This could very well be zero. We give you our word that we will try to build a community and bring as much intangible value and vibes to the project as we can! You understand that they have no inherent monetary value, and they should be treated as nothing more than a collectible with potential future value or lack thereof. 6. Taxes . You are entirely responsible for any tax liability which may arise from minting or reselling your Chin Pokies NFT. 7. Children . The Chin Pokies project is not targeted towards children. By purchasing a Chin Pokie, you are certifying that you are over the age of 18, or above the legal age of your jurisdiction, whichever is greater. ",
     "url": "http://localhost:4000/terms-and-conditions",
     "relUrl": "/terms-and-conditions"
-  },"20": {
-    "doc": "Utility Overview",
+  },"18": {
+    "doc": "Utility",
     "title": "Utility",
-    "content": ". ",
-    "url": "http://localhost:4000/utility#utility",
-    "relUrl": "/utility#utility"
-  },"21": {
-    "doc": "Utility Overview",
-    "title": "Utility Overview",
-    "content": "Utility will be implemented primarily in the form of staking. Chin Pokie NFTs will be able to be staked making community members who do so eligible for rewards. Rewards include but are not limited to: $SWIM token generation, airdrops, raffles, and more. Utility will be developed and implemented post-launch using the aforementioned allocation of mint sale funds. ",
+    "content": " ",
     "url": "http://localhost:4000/utility",
     "relUrl": "/utility"
+  },"19": {
+    "doc": "Utility",
+    "title": "Table of contents",
+    "content": ". | Overview | Fertility . | What is Fertility? | How is Fertility Calculated? | . | About $SWIM | Staking &amp; Rewards | $SWIM Tokenomics | . ",
+    "url": "http://localhost:4000/utility#table-of-contents",
+    "relUrl": "/utility#table-of-contents"
+  },"20": {
+    "doc": "Utility",
+    "title": "Overview",
+    "content": "Utility will be implemented primarily in the form of staking. Chin Pokie NFTs will be able to be staked making community members who do so eligible for rewards. Rewards include but are not limited to: $SWIM token generation, airdrops, raffles, and more. Utility will be developed and implemented post-launch using the aforementioned allocation of mint sale funds. ",
+    "url": "http://localhost:4000/utility#overview",
+    "relUrl": "/utility#overview"
+  },"21": {
+    "doc": "Utility",
+    "title": "Fertility",
+    "content": "What is Fertility? . Fertility is an invisible attribute that affects staking and utility. Every Pokie has a fertility score ranging from 1.0 to 10.0. Fertility will be listed on OpenSea, but will not have a designated rarity. The value here will directly affect staking/utility with a higher Fertility score resulting in more $SWIM generated when staked. Higher rarity attributes will have a higher base Fertility score when being used to calculate a Pokie’s fertility. Each attribute will have a higher floor for their fertility score. Fertility score isn’t just a number, it’s a key component to our algorithm and will help generate tangible rewards as determined by the Team. How is Fertility Calculated? . Each Chin Pokie’s Fertility will be calculated by taking the average of the hidden Fertility score of each individual attribute. The hidden fertility score of each attribute is calculate when generating each Chin Pokie. Meaning the same attribute will most likely have a different hidden Fertility score on different Pokies. The attribute’s rarity influences the hidden Fertility as follows: . | Common - Randomly generated Fertility between 1-10 | Uncommon - Randomly generated Fertility between 1-10 plus 2 | Rare - Randomly generated Fertility between 1-10 plus 4 | Epic - Randomly generated Fertility between 1-10 plus 6 | Legendary - Randomly generated Fertility between 1-10 plus 8 | Unique Pokies- Guaranteed Fertility of 10 | . Example with random numbers. Chin Pokie#5555 has the following attribute spread: . | Rare - Randomly generated Fertility between 0-10 + 4 -&gt; (6+4) = 10 | Epic - Randomly generated Fertility between 0-10 + 6 -&gt; (7+6) = 13 | Legendary - Randomly generated Fertility between 0-10 + 8 -&gt; (8+8) = 16 | Common - Randomly generated Fertility between 0-10 -&gt; 1 | Common - Randomly generated Fertility between 0-10 -&gt; 8 | Common - Randomly generated Fertility between 0-10 -&gt; 1 | . The above Chin Pokie’s cumulative fertility is 8.2 (average of the above Fertility scores). Final fertility will be capped at 10. ",
+    "url": "http://localhost:4000/utility#fertility",
+    "relUrl": "/utility#fertility"
   },"22": {
-    "doc": "Utility Overview",
-    "title": "What is $SWIM?",
+    "doc": "Utility",
+    "title": "About $SWIM",
     "content": "Swimmers ($SWIM) are a Chin Pokie specific token that will be used to redeem rewards. Fertility score will determine how much $SWIM is generated when Pokies are staked. Additionally, staking with multiple Pokies will result in more $SWIM generated since more fertility will be utilized. Tokenomics around $SWIM will be released at a later date. ",
-    "url": "http://localhost:4000/utility#what-is-swim",
-    "relUrl": "/utility#what-is-swim"
+    "url": "http://localhost:4000/utility#about-swim",
+    "relUrl": "/utility#about-swim"
   },"23": {
-    "doc": "Utility Overview",
+    "doc": "Utility",
     "title": "Staking &amp; Rewards",
-    "content": "Rewards that will be redeemable through the aforementioned utility process include: . | Chin Pokies Merchandise - custom merchandise will be 100% redeemable with earned $SWIM. The only cost for community members will be shipping. | Giveaway Access - members actively staking with their Chin Pokie will automatically be entered into WL raffles as well as giveaways for any future releases. | Raffles &amp; Auctions - Members can use $SWIM to enter raffles for Allowlist spots for Gen II Chin Pokies as well as Allowlist spots for collaborative projects. Additionally, members can bid on limited releases &amp; new collections using $SWIM. | . ",
+    "content": "Rewards that will be redeemable through the aforementioned utility process include: . | Chin Pokies Merchandise - custom merchandise will be 100% redeemable with earned $SWIM. The only cost for community members will be shipping. | Giveaway Access - members actively staking with their Chin Pokie will automatically be entered into AL and NFT raffles as well as giveaways for any future releases. | Raffles &amp; Auctions - Members can use $SWIM to enter raffles for Allowlist spots for Gen II Chin Pokies as well as Allowlist spots for collaborative projects. Additionally, members can bid on limited releases &amp; new collections using $SWIM. | . ",
     "url": "http://localhost:4000/utility#staking--rewards",
     "relUrl": "/utility#staking--rewards"
   },"24": {
-    "doc": "Utility Overview",
+    "doc": "Utility",
     "title": "$SWIM Tokenomics",
-    "content": "Chin Pokies are committed to implementing staking post-launch. Tokenomics of $SWIM to be specified at a later date. ",
+    "content": "Chin Pokies are committed to implementing staking post-launch. As previously mentioned, a Chin Pokie’s Fertility will influence the daily Tokenomics of $SWIM to be specified at a later date. ",
     "url": "http://localhost:4000/utility#swim-tokenomics",
     "relUrl": "/utility#swim-tokenomics"
   }
