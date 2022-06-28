@@ -27,11 +27,11 @@ The [utility-based component](/utility) will be implemented post-launch using fu
 The team consists of 7 members with a wide breadth of skills. Using these skills cohesively, Chin Pokies are bringing a project with a growing community, great art, and rewards-based utility (in the future). Each member directs and manages their specified field:
 
 - **Biju -** Founder & Development. With 9 years of experience under his belt, Biju's development experience includes machine learning, automation, fullstack development, VR, and web3.
-- **EdgyHomumculus -** Founder & Marketing. Over a decade of marketing experience assisting a wide breadth of companies including widely known crypto companies.
+- **EdgyHomumculus -** Founder & Marketing. A decade of marketing experience assisting a wide breadth of companies including widely known crypto companies.
 - **Elden Bling -** Founder & Art Direction. Nearly a decade of IT Project Management experience with 5 years of graphic design.
 - **Bubba Flubba -** Developed sales and marketing departments in multiple companies over the last 7 years with a focus on improving the customer journey. 
 - **KiwiSmoothie -** Community Development. Over three years of Discord moderation and server experience, focusing on member engagement and growth.
-- **Pin Chokie -** Finance
+- **PinChokie -** Finance. Holds a finance degree with 10 years of corporate experience rooted in big4 consulting and Fortune 500 companies.
 
 ## Project Roadmap
 ### Phase I - Q4 2021<br>Art & Design
@@ -46,7 +46,8 @@ Seven different attribute types were developed for a total of [173 attributes](a
 #### **Smart Contract Design**
 {: .no_toc }
 
-Creating and optimizing our ERC721A smart contract was a primary focus. Listings on OpenSea will be free and gas costs will be minimized to the best of our ability. 
+Creating and optimizing our ERC721A smart contract was a primary focus. With our optimizations, there will be little gas increase for minting more than one Chin Pokie in a single transaction. Listing on OpenSea will be free, and gas costs will be minimized to the best of our ability. 
+
 ### Phase II Q1 - Q3 2022<br>Preparing for Launch
 
 #### **Community & Social**
@@ -58,7 +59,9 @@ Community development and social growth is the primary focus here. All of our at
 {: .no_toc }
 
 The Chin Pokies website is designed to be transparent and ensure that all aspects of the project are easy to understand and transparent. 
+
 #### **Mint**
+{: .no_toc }
 6,969 Chin Pokies will be minted with a target date of the end of Summer. For more information about the mint process visit the [mint information page](/mint-information-and-tips)
 ### Phase III - Q4 2022<br>Staking & Rewards
 

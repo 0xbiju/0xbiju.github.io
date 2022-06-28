@@ -63,11 +63,14 @@ Rewards that will be redeemable through the aforementioned utility process inclu
 ## \$SWIM Tokenomics
 Chin Pokies are committed to implementing staking post-launch. Some of the specifics of how $SWIM works have already been defined and will be explained below. Staking functionality will be implemented post-launch on our website using an allocated percentage of the aforementioned community fund (60% of mint sales).
 
+
 Maximum staked fertility will be capped at 20, regardless of how many Chin Pokies staked.
 - Ex: If Chin Pokies holder stakes 4 NFTs with fertilities of 4, 9, 8, and 5, the total fertility staked will still be 20. 
 - Ex: If Chin Pokies holder stakes 2 NFTs with fertilities of 4 and 3,  the total fertility staked will be 7.
 
-$SWIM will be accrued at a rate of **Total Fertility Staked<sup>1.5</sup>** each day that Chin Pokie NFTs are staked.
+\$SWIM will be accrued at a rate of `(Total Fertility Staked)^1.5` each day that a Chin Pokie NFT is staked.
 
-Accrued $SWIM can be collected by clicking the redeem button on our website.
+![](../assets/images/fertility-chart.png)
+
+Accrued $SWIM will be collected by redeeming through our staking app on our website .
 
