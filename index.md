@@ -29,7 +29,7 @@ The team consists of 7 members with a wide breadth of skills. Using these skills
 - **Biju -** Founder & Development. With 9 years of experience under his belt, Biju's development experience includes machine learning, automation, fullstack development, VR, and web3.
 - **EdgyHomumculus -** Founder & Marketing. A decade of marketing experience assisting a wide breadth of companies including widely known crypto companies.
 - **Elden Bling -** Founder & Art Direction. Nearly a decade of IT Project Management experience with 5 years of graphic design.
-- **Bubba Flubba -** Developed sales and marketing departments in multiple companies over the last 7 years with a focus on improving the customer journey. 
+- **Bubba Flubba -** Strategy & Design. Developed sales and marketing departments in multiple companies over the last 7 years with a focus on improving the customer journey. 
 - **KiwiSmoothie -** Community Development. Over three years of Discord moderation and server experience, focusing on member engagement and growth.
 - **PinChokie -** Finance. Holds a finance degree with 10 years of corporate experience rooted in big4 consulting and Fortune 500 companies.
 
