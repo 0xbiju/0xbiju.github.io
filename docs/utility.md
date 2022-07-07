@@ -74,8 +74,8 @@ Accrued $SWIM will be collected by redeeming through our staking app on our webs
 
 ![](../assets/images/fertility-chart.png)
 
-| Fertility        | Daily \$Swim Yield  | Fertility        | Daily \$Swim Yield   |
-|:-------------|:------------------|
+| Total Fertility        | Daily \$SWIM Yield  | Total Fertility        | Daily \$SWIM Yield   |
+|:-------------:|:------------------:|:-------------:|:------------------:|
 | **1** | 1.0 | **11** | 26.5 |
 | **2** | 2.8 | **12** | 41.6 |
 | **3** | 5.2 | **13** | 46.9 |
