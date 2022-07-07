@@ -25,7 +25,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 , "docs/tests/"
 ]
 
-ga_tracking: UA-5319305252
+ga_tracking: G-8XQCZMF6JV
 
 # Regression tests
 # By default, the pages in /docs/tests are excluded when the ste is built.
