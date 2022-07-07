@@ -1,0 +1,105 @@
+<h1 class="no_toc text-delta" id="utility">Utility</h1>
+
+<h2 class="no_toc text-delta" id="table-of-contents">Table of contents</h2>
+<ol id="markdown-toc">
+  <li><a href="#overview" id="markdown-toc-overview">Overview</a></li>
+  <li><a href="#fertility" id="markdown-toc-fertility">Fertility</a>    <ol>
+      <li><a href="#what-is-fertility" id="markdown-toc-what-is-fertility">What is Fertility?</a></li>
+      <li><a href="#how-is-fertility-calculated" id="markdown-toc-how-is-fertility-calculated">How is Fertility Calculated?</a></li>
+    </ol>
+  </li>
+  <li><a href="#about-swim" id="markdown-toc-about-swim">About $SWIM</a></li>
+  <li><a href="#staking--rewards" id="markdown-toc-staking--rewards">Staking &amp; Rewards</a></li>
+  <li><a href="#swim-tokenomics" id="markdown-toc-swim-tokenomics">$SWIM Tokenomics</a></li>
+</ol>
+<hr />
+
+<h2 id="overview">Overview</h2>
+<p>Utility will be implemented primarily in the form of staking. Chin Pokie NFTs will be able to be staked making community members who do so eligible for rewards. Rewards include but are not limited to: $SWIM token generation, airdrops, raffles, and more. Utility will be developed and implemented post-launch using the aforementioned allocation of mint sale funds.</p>
+
+<h2 id="fertility">Fertility</h2>
+
+<h3 id="what-is-fertility">What is Fertility?</h3>
+
+<p>Fertility is an invisible attribute that affects staking and utility. 
+Every Pokie has a fertility score ranging from 1.0 to 10.0. 
+Fertility will be listed on OpenSea, but will not have a designated rarity. 
+The value here will directly affect staking/utility with a higher Fertility score resulting in more $SWIM generated when staked.</p>
+
+<p>Higher rarity attributes will have a higher base Fertility score when being used to calculate a Pokie’s fertility. 
+Each attribute will have a higher floor for their fertility score. Fertility score isn’t just a number, it’s a key component to our algorithm and will help generate tangible rewards as determined by the Team.</p>
+
+<h3 id="how-is-fertility-calculated">How is Fertility Calculated?</h3>
+
+<p>Each Chin Pokie’s Fertility will be calculated by taking the average of the hidden Fertility score of each individual attribute.
+The hidden fertility score of each attribute is calculate when generating each Chin Pokie. Meaning the same attribute will most likely have a different hidden Fertility score on different Pokies. The attribute’s rarity influences the hidden Fertility as follows:</p>
+<ul>
+  <li><strong>Common -</strong> Randomly generated Fertility between 1-10</li>
+  <li><strong>Uncommon -</strong> Randomly generated Fertility between 1-10 plus 2</li>
+  <li><strong>Rare -</strong> Randomly generated Fertility between 1-10  plus 4</li>
+  <li><strong>Epic -</strong> Randomly generated Fertility between 1-10 plus 6</li>
+  <li><strong>Legendary -</strong> Randomly generated Fertility between 1-10 plus 8</li>
+  <li><strong>Unique Pokies-</strong> Guaranteed Fertility of 10</li>
+</ul>
+
+<p>Example with random numbers.
+Chin Pokie#5555 has the following attribute spread:</p>
+<ul>
+  <li><strong>Rare -</strong>  Randomly generated Fertility between 0-10 + 4 -&gt; (6+4) = 10</li>
+  <li><strong>Epic -</strong> Randomly generated Fertility between 0-10 + 6 -&gt; (7+6) = 13</li>
+  <li><strong>Legendary -</strong> Randomly generated Fertility between 0-10 + 8 -&gt; (8+8) = 16</li>
+  <li><strong>Common -</strong> Randomly generated Fertility between 0-10 -&gt; 1</li>
+  <li><strong>Common -</strong> Randomly generated Fertility between 0-10 -&gt; 8</li>
+  <li><strong>Common -</strong> Randomly generated Fertility between 0-10 -&gt; 1</li>
+</ul>
+
+<p>The above Chin Pokie’s cumulative fertility is <strong>8.2</strong> (average of the above Fertility scores). 
+Final fertility will be <strong>capped at 10.</strong></p>
+
+<h2 id="about-swim">About $SWIM</h2>
+<p>Swimmers ($SWIM) are a Chin Pokie specific token that will be used to redeem rewards. <a href="/attribute-breakdown#fertility">Fertility</a> score will determine how much $SWIM is generated when Pokies are staked. Additionally, staking with multiple Pokies will result in more $SWIM generated since more fertility will be utilized. Tokenomics around $SWIM will be released at a later date.</p>
+
+<h2 id="staking--rewards">Staking &amp; Rewards</h2>
+<p>Rewards that will be redeemable through the aforementioned utility process include:</p>
+<ol>
+  <li><strong>Chin Pokies Merchandise</strong> - custom merchandise will be 100% redeemable with earned $SWIM. The only cost for community members will be shipping.</li>
+  <li><strong>Giveaway Access</strong> - members actively staking with their Chin Pokie will automatically be entered into AL and NFT raffles as well as giveaways for any future releases.</li>
+  <li><strong>Raffles &amp; Auctions</strong> - Members can use $SWIM to enter raffles for Allowlist spots for Gen II Chin Pokies as well as Allowlist spots for collaborative projects. Additionally, members can bid on limited releases &amp; new collections using $SWIM.</li>
+</ol>
+
+<h2 id="swim-tokenomics">$SWIM Tokenomics</h2>
+<p>Chin Pokies are committed to implementing staking post-launch. Some of the specifics of how $SWIM works have already been defined and will be explained below. Staking functionality will be implemented post-launch on our website using an allocated percentage of the aforementioned community fund (60% of mint sales).</p>
+
+<p>Maximum staked fertility will be capped at 20, regardless of how many Chin Pokies staked.</p>
+<ul>
+  <li>Ex: If Chin Pokies holder stakes 4 NFTs with fertilities of 4, 9, 8, and 5, the total fertility staked will still be 20.</li>
+  <li>Ex: If Chin Pokies holder stakes 2 NFTs with fertilities of 4 and 3,  the total fertility staked will be 7.</li>
+</ul>
+
+<p>$SWIM will be accrued at a rate of <code class="language-plaintext highlighter-rouge">(Total Fertility Staked)^1.5</code> each day that a Chin Pokie NFT is staked.</p>
+
+<p>Accrued $SWIM will be collected by redeeming through our staking app on our website .</p>
+
+<p><img src="../assets/images/fertility-chart.png" alt="" /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Fertility</th>
+      <th style="text-align: left">Daily $Swim yield</th>
+      <th> </th>
+      <th>Fertility</th>
+      <th>Daily $Swim yield</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">1</td>
+      <td style="text-align: left">1</td>
+      <td>11</td>
+      <td>11</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
