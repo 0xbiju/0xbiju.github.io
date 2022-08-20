@@ -20,7 +20,7 @@ permalink: /
 Chin Pokies is a collection of 6,969 profile picture based NFTs with a focus on community, enjoyable art, and a utility-based component that we’re looking forward to implementing post-launch. 
 The [utility-based component](/utility) will be implemented post-launch using funds from project mint sales (50% of the project must mint out). 60% of mint sales will be reinvested into the project to cover additional fixed costs, additional development, events, future releases, and more. 
 
-*Chin Pokies will be minting later this summer. Public sale price will be 0.0369 Ethereum, and Allowlist Presale price will be 0.025 Ethereum.*
+*Chin Pokies will be minting September 13th, 2022. Public sale price will be 0.0369 Ethereum, and Allowlist Presale price will be 0.025 Ethereum.*
 
 ## Overview of the Team
 
@@ -62,7 +62,7 @@ The Chin Pokies website is designed to be transparent and ensure that all aspect
 
 #### **Mint**
 {: .no_toc }
-6,969 Chin Pokies will be minted with a target date of the end of Summer. For more information about the mint process visit the [mint information page](/mint-information-and-tips)
+6,969 Chin Pokies will be minted September 13th, 2022. For more information about the mint process visit the [mint information page](/mint-information-and-tips)
 ### Phase III - Q4 2022<br>Staking & Rewards
 
 #### **Staking Your Chin Pokie**
