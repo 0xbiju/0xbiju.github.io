@@ -26,7 +26,7 @@ Chin Pokies will be minting September 13th, 2022.
 
 ### Wat Price?
 
-`0.0369 Ethereum` Public sale price, `.02 Etherium` Allowlist sale price.
+`0.0369 Ethereum` Public sale price, `.021 Etherium` Allowlist sale price.
 
 ### How AL?
 
