@@ -20,10 +20,10 @@ Immediately after pre-sale (and before public mint), contest winners will be air
 
 Allowlist holders will be able to mint a maximum of 3 Chin Pokies during the Allowlist Presale.
 
-Allowlist mints will cost 0.025 Ethereum each (down from 0.0369) during the Allowlist Presale. 
+Allowlist mints will cost 0.02 Ethereum each (down from 0.0369) during the Allowlist Presale. 
 
 Allowlist spots will be awarded based on the Team’s discretion. The CP team is continually looking for creative ways to reward community engagement with Allowlist spots.  Ways to earn Allowlist spots are included (but not limited to) below:
-- Scoring 35 points or more on [Floppy Pokie](https://chinpokies.com/floppy-pokie)
+- Scoring 20 points or more on [Floppy Pokie](https://chinpokies.com/floppy-pokie)
 - Twitter engagement
 - Earning Discord roles
 - Purchasing the Allowlist spots with our Discord-specific currency, Pokiecoins. 
@@ -38,11 +38,11 @@ These Chin Pokies are NOT considered property of any of the Chin Pokie staff.
 
 | Name        | Time          |
 |:-------------|:------------------|
-| Allowlist Mint           | TBA | 
-| Contest Winner Airdrops | TBA  | 
-| Reserved Pokie Claim | TBA  | 
-| Public Mint           | TBA      | 
-| Metadata Reveal           | TBA |  
+| Allowlist Mint           | 9/13-Time TBA | 
+| Contest Winner Airdrops | 9/13-Time TBA | 
+| Reserved Pokie Claim | 9/13-Time TBA | 
+| Public Mint           | 9/13-Time TBA | 
+| Metadata Reveal           | 9/14-Time TBA |  
 
 ## Tips
 
@@ -56,4 +56,4 @@ Expect the gas price to be higher than what is quoted as the public sale begins.
 
 Use etherscan's pending transaction page to see what gas prices others are using to help inform your own gas strategy.
 
-Be aware that you and many others may be attempting to mint the last remaining Chin Pokies. The website will refresh the remaining count whenever the mint button is clicked.
+Be aware that you and many others may be attempting to mint the last remaining Chin Pokies. The website will refresh the remaining count whenever the page is refreshed and a wallet is connected.
