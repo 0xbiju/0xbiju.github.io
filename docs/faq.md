@@ -26,8 +26,8 @@ Chin Pokies will be minting September 13th, 2022.
 
 ### Wat Price?
 
-`0.0369 Ethereum` Public sale price, `.025 Etherium` Allowlist sale price.
+`0.0369 Ethereum` Public sale price, `.02 Etherium` Allowlist sale price.
 
 ### How AL?
 
-Hop into the [discord](https://discord.gg/Yv4Ffh42mw) and earn Pokiecoins to buy your Allowlist. We'll also have events, raffles, and giveaways to win Allowlist as well.
+There are countless ways to earn Allowlist for the project. Read more about getting Allowlist [here](https://docs.chinpokies.com/mint-information-and-tips#allowlist-facts--process).
