@@ -20,7 +20,7 @@ Immediately after pre-sale (and before public mint), contest winners will be air
 
 Allowlist holders will be able to mint a maximum of 3 Chin Pokies during the Allowlist Presale.
 
-Allowlist mints will cost 0.021 Ethereum each (down from 0.0369) during the Allowlist Presale. 
+Allowlist mints will cost `0.021 Ethereum` each (down from 0.0369) during the Allowlist Presale. 
 
 Allowlist spots will be awarded based on the Team’s discretion. The CP team is continually looking for creative ways to reward community engagement with Allowlist spots.  Ways to earn Allowlist spots are included (but not limited to) below:
 - Scoring 20 points or more on [Floppy Pokie](https://chinpokies.com/floppy-pokie)
