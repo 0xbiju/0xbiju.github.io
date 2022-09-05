@@ -24,13 +24,13 @@ Attribute categories can be seen below. Learn more about the cosmetic aspects of
 
 **1. Ruler -** a standard ruler with a measurement ranging from 1-12 (for non-unique Chin Pokies). 
 
-**2. Face -** 49 variants + uniques
+**2. Face -** 48 variants + uniques
 
-**3. Body -** 32 variants + uniques
+**3. Body -** 33 variants + uniques
 
-**4. Head -** 52 variants + uniques
+**4. Head -** 49 variants + uniques
 
-**5. Background -** 21 variants + uniques
+**5. Background -** 22 variants + uniques
 
 **6. Skin -** 17 variants + uniques
 
@@ -41,8 +41,8 @@ Attribute categories can be seen below. Learn more about the cosmetic aspects of
 | Attribute        | Variations          |
 |:-------------|:------------------|
 | Ruler           | 12 | 
-| Face | 49  | 
-| Body           | 32      | 
-| Head           | 52 | 
-| Background           | 21 | 
+| Face | 48  | 
+| Body           | 33      | 
+| Head           | 49 | 
+| Background           | 22 | 
 | Skin           | 17 | 
