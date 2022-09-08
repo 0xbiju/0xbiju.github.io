@@ -36,13 +36,13 @@ These Chin Pokies are NOT considered property of any of the Chin Pokie staff.
 
 ## Timeline
 
-| Name        | Time          |
+| Name        | Time (All in EST)       |
 |:-------------|:------------------|
-| Allowlist Mint           | 9/13-Time TBA | 
-| Contest Winner Airdrops | 9/13-Time TBA | 
-| Reserved Pokie Claim | 9/13-Time TBA | 
-| Public Mint           | 9/13-Time TBA | 
-| Metadata Reveal           | 9/14-Time TBA |  
+| Allowlist Mint           | 9/13~9am-6pm | 
+| Contest Winner Airdrops | 9/13~6pm-7pm | 
+| Reserved Pokie Claim | 9/13~7pm-7:30pm | 
+| Public Mint           | 9/13-7:30pm-Mint Out | 
+| Metadata Reveal           | 9/14~7:30pm |  
 
 ## Tips
 
