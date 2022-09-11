@@ -6,6 +6,10 @@ permalink: /mint-information-and-tips
 ---
 # Minting Information and Tips
 ---
+\*Official Chin Pokies Minting Contract: [0xa2f5eb79b48891e01f3552b71326166cf689a846](https://etherscan.io/address/0xa2f5eb79b48891e01f3552b71326166cf689a846)
+
+\*Official Chin Pokies Deployer Opensea Account: [ChinPokieDepolyer](https://opensea.io/ChinPokieDeployer)
+
 ## Mint Specifications
 Each Chin Pokie NFT will be purchasable for `0.0369 Ethereum` on our website.
 
