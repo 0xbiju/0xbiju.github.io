@@ -6,7 +6,9 @@ permalink: /mint-information-and-tips
 ---
 # Minting Information and Tips
 ---
-\*Official Chin Pokies Minting Contract: [0x907997b2CaF998617eFE2D5f535427fF2c955629](https://etherscan.io/address/0x907997b2CaF998617eFE2D5f535427fF2c955629)
+\*Official Chin Pokies Minting Contract: [0x6f4ea4A853081aA72E7068e591AbB8cab35F6FC6](https://etherscan.io/address/0x6f4ea4A853081aA72E7068e591AbB8cab35F6FC6)
+
+~~\*Official Chin Pokies Minting Contract: [0x907997b2CaF998617eFE2D5f535427fF2c955629](https://etherscan.io/address/0x907997b2CaF998617eFE2D5f535427fF2c955629)~~ There was an issue with this contract and a new one was made.
 
 \*Official Chin Pokies Deployer Opensea Account: [ChinPokieDepolyer](https://opensea.io/ChinPokieDeployer)
 
