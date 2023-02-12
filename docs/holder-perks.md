@@ -19,6 +19,7 @@ Holders of Chin Pokies NFTs will be able to opt-in to our Reward Program (coming
 ## Digital Assets and Merchandising
 Chin Pokies NFT holders will be granted access to a series of token-gated digital assets being released over time.
 In addition, holders also receive a discount on merchandising at our [online store](https://shop.chinpokies.com) once they've connected their wallet. The number of Chin Pokies NFTs held in the wallet determines the discount received. 
+
 NFTs Held        | Discount  | 
 |:-------------:|:------------------:|
 | **1** | 10% | 
