@@ -65,22 +65,22 @@ Final fertility is **capped at 10.**
 Swimmers (\$SWIM) are Chin Pokie specific points that will be used to redeem rewards. [Fertility](/attribute-breakdown#fertility) score will determine how much \$SWIM is generated when Pokies are staked. Additionally, holding multiple Pokies will result in more \$SWIM generated since more fertility will be utilized. \$SWIM is not a token, the $SWIM you acrue are points that are visible from the Chin Pokies website.
 
 ## Rewards
-Rewards that are redeemable through the aforementioned loylty program include:
-1. **Chin Pokies Merchandise** -  merchandise will be 100% redeemable with earned \$SWIM. The only cost for members will be shipping.
-2. **Giveaway Access** - members have the opportuity to enter into AL and NFT raffles as well as giveaways for any future releases.
+Rewards that are redeemable through the aforementioned loyalty program include:
+1. **Chin Pokies Merchandise** -  Merchandise will be 100% redeemable with earned \$SWIM. The only cost for members will be shipping.
+2. **Giveaway Access** - Members have the opportuity to enter into AL and NFT raffles as well as giveaways for any future releases.
 3. **Raffles & Auctions** - Members can use \$SWIM to enter raffles for Allowlist spots, for Gen II Chin Pokies, as well as Allowlist spots for collaborative projects. Additionally, members can bid on limited releases & new collections using \$SWIM.
 
 ## \$SWIM Tokenomics
 Chin Pokies are committed to implementing a rewards program post-launch. Some of the specifics of how $SWIM works have already been defined and will be explained below. The Reward Program functionality will be implemented post-launch on our website using an allocated percentage of the aforementioned community fund (60% of mint sales).
 
-
+#### Base Reward
 Maximum staked fertility will be capped at 20, regardless of how many Chin Pokies are held.
 - Ex: If Chin Pokies holder stakes 4 NFTs with fertilities of 4, 9, 8, and 5, the total fertility staked will still be 20. 
 - Ex: If Chin Pokies holder stakes 2 NFTs with fertilities of 4 and 3,  the total fertility staked will be 7.
 
-\$SWIM will be accrued at a rate of `(Total Fertility Staked)^1.5` each day that once the holder has opted in.
+The base \$SWIM reward will be accrued at a rate of `(Total Fertility Staked)^1.5` each day, once the holder has opted in.
 
-Accrued $SWIM will be collected by redeeming through our website.
+Accrued $SWIM is automatically deposited into your account every day after the holder opts into the rewards
 
 ![](../assets/images/fertility-chart.png)
 
@@ -97,4 +97,17 @@ Accrued $SWIM will be collected by redeeming through our website.
 | **9** | 27.0 | **19** | 82.8 |
 | **10** | 31.6 | **20** | 89.4 |
 
+#### Hold Bonus
 
+In addition to the base reward, holders receive an additional 10 \$SWIM for every 5 Chin Pokies in the wallet at the time of the daily reward. Unlike the base reward, there is no cap on the hold bonus. 
+
+The final formula used to calculate the daily reward is 
+```
+(Total Fertility Staked)^1.5 + ((Number Chin Pokies Held)/5)*10
+```
+ 
+ - Ex. A holder has 10 Chin Pokies and max fertility, their final $SWIM reward with the hold bonus would be  `20^1.5 + 20 = 109.4`
+
+- Ex. A holder has 4 Chin Pokies and max fertility, their final $SWIM reward with the hold bonus would be  `20^1.5 + 0 = 89.4`
+
+From the two examples seen above, the one additional Chin Pokie allows the first holder to earn 22.5% more \$SWIM daily.
